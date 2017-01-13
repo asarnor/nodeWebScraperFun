@@ -10,7 +10,7 @@ src/app/config.js
 npm-debug.log
 
 images
-results.js
+results.json
 
 # Logs
 logs
