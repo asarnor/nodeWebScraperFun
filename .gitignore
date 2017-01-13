@@ -9,6 +9,9 @@ accessibility-reports
 src/app/config.js
 npm-debug.log
 
+images
+results.js
+
 # Logs
 logs
 *.log
